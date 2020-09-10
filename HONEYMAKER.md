@@ -6,7 +6,7 @@ Honeymaker is a SushiMaker deployment and accompanying bot that converts LP shar
 
 #### `SushiMaker`
 
-SushiMaker is deployed at [`0x076b64f9F966e3bBD0FCdC79D490Ab71cF961bb0`](https://blockscout.com/poa/xdai/address/).
+SushiMaker is deployed at [`0x076b64f9F966e3bBD0FCdC79D490Ab71cF961bb0`](https://blockscout.com/poa/xdai/address/0x076b64f9F966e3bBD0FCdC79D490Ab71cF961bb0).
 
 ##### Compilation options
 
