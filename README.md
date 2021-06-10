@@ -1,5 +1,7 @@
 ## Honeyswap Documentation
 
+> ⚠️ **NOTE** This documentation is currently very out of date. To learn more about 1Hive, Honeyswap and related 1Hive projects, see [here](https://wiki.1hive.org)
+
 Honeyswap is a modified deployment of Uniswap on xDai.
 
 ### Documentation
