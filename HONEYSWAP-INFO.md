@@ -13,4 +13,4 @@ The fork is powered by forks of two subgraphs:
 
 The front-end is a fork of the official uniswap.info source code with modifications to use Blockscout instead of Etherscan along with minor adjustments to use the appropriate token lists and factory addresses.
 
-The source code for the front-end can be found [here](https://github.com/1Hive/uniswap-info/).
+The source code for the front-end can be found [here](https://github.com/1Hive/honeyswap-info).

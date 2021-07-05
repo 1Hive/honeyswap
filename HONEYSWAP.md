@@ -9,4 +9,4 @@ Honeyswap is a Uniswap deployment for xDai.
 
 ### Front-end
 
-The front-end is deployed at [honeyswap.org](https://honeyswap.org) and the source code can be found [here](https://github.com/1Hive/uniswap-interface). The major modifications are rebranding and a modified token list set.
+The front-end is deployed at [honeyswap.org](https://honeyswap.org) and the source code can be found [here](https://github.com/1Hive/honeyswap-interface). The major modifications are rebranding and a modified token list set.
